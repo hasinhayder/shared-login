@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-13 12:41+0600\n"
+"PO-Revision-Date: 2018-03-13 12:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/csf/config/easygrid.config.php:3
+msgid "SharedLogin Options"
+msgstr ""
+
+#: inc/csf/config/easygrid.config.php:9
+msgid "by"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:5
+msgid "SharedLogin Shortcode"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:17
+msgid "Active"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:23
+msgid "Internal Identifier"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:31
+msgid "Select User To Login As"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:40
+msgid "How many times it can be used?"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:47
+msgid "Restrict By IP Address"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:53
+msgid "Restrict IP Address"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:61 inc/sharedlogin-metaboxes.php:67
+#: inc/sharedlogin-metaboxes.php:80
+msgid "Receive Login Notification Email"
+msgstr ""
+
+#: inc/sharedlogin-metaboxes.php:74
+msgid "Require entering a secret"
+msgstr ""
+
+#: sharedlogin.php:65
+msgid "Please enter your secret"
+msgstr ""
+
+#: sharedlogin.php:65
+msgid "Login"
+msgstr ""
+
+#: sharedlogin.php:140 sharedlogin.php:159
+msgid "Shared Logins"
+msgstr ""
+
+#: sharedlogin.php:141 sharedlogin.php:142 sharedlogin.php:143
+#: sharedlogin.php:158
+msgid "Shared Login"
+msgstr ""
+
+#: sharedlogin.php:144
+msgid "Parent Shared Login:"
+msgstr ""
+
+#: sharedlogin.php:145
+msgid "All Shared Logins"
+msgstr ""
+
+#: sharedlogin.php:146
+msgid "Add New Shared Login"
+msgstr ""
+
+#: sharedlogin.php:147
+msgid "Add New"
+msgstr ""
+
+#: sharedlogin.php:148
+msgid "New Shared Login"
+msgstr ""
+
+#: sharedlogin.php:149
+msgid "Edit Shared Login"
+msgstr ""
+
+#: sharedlogin.php:150
+msgid "Update Shared Login"
+msgstr ""
+
+#: sharedlogin.php:151
+msgid "View Shared Login"
+msgstr ""
+
+#: sharedlogin.php:152
+msgid "Search Shared Login"
+msgstr ""
+
+#: sharedlogin.php:153
+msgid "Not found"
+msgstr ""
+
+#: sharedlogin.php:154
+msgid "Not found in Trash"
+msgstr ""
